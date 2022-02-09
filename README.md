@@ -1,7 +1,7 @@
 ### HELLOW👋  I'm Puparasa Ayilavan
      
-   - 🔭 I’m currently working on <p style="color:Tomato;">PLA GROUP OF COMPANY </p>
-   - 🌱 I’m currently learning API & WEB ENGINEERING
+   - 🔭 I’m currently working on <p style="color:Tomato;"> PLA GROUP OF COMPANY </p>
+   - 🌱 I’m currently learning <p> API & WEB ENGINEERING </p>
   
 
 
