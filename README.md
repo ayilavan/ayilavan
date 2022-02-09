@@ -1,8 +1,10 @@
 ### HELLOW👋  I'm Puparasa Ayilavan
      
-     -  🔭 I’m currently working on PLA GROUP OF COMPANY
-     -  🌱 I’m currently learning API & WEB ENGINEERING
+   - 🔭 I’m currently working on PLA GROUP OF COMPANY
+   - 🌱 I’m currently learning API & WEB ENGINEERING
   
+
+
 <!--
 **ayilavan/ayilavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
