@@ -32,7 +32,6 @@ At **99NEX Technologies**, I turn client requirements into working products—fr
 A mobile-first wholesale ordering platform connecting customers, warehouse teams, managers, and drivers. The project covers product ordering, picking and packing, delivery tracking, invoices, and operational reporting.
 
 **React · TypeScript · Supabase · PostgreSQL · Netlify**  
-[Visit Order Desk ↗](https://wholesale-order-desk.99nex.info)
 
 ### 02 / AK WholesalePro
 
